@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- When selected, use gree_button_active -->
+    <item android:state_selected="true" android:drawable="@drawable/gree_button_active" />
+    <item android:state_active="true" android:drawable="@drawable/gree_button_active" />
+    <item android:state_pressed="true" android:drawable="@drawable/gree_button_active" />
+    <!-- When not selected, use green_button_normal-->
+    <item android:drawable="@drawable/green_button_normal" />
+</selector> 

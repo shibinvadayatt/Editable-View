@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="canvas_size">16sp</dimen>
+    <dimen name="canvas_ht">50dp</dimen>
+    <dimen name="canvas_width">200dp</dimen>
+    <dimen name="canvas_left_padding">5dp</dimen>
+    <dimen name="canvas_cursor_padding">1dp</dimen>
+     <dimen name="canvas_cursor_ht">40dp</dimen>
+    
+
+</resources>

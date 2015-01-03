@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:shibins="http://schemas.android.com/apk/res-auto" 
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    
+    android:layout_height="match_parent">
+
+   <com.shibins.canvas.view.CanvasClass 
+       android:id="@+canvas_test/canvas_view"
+       android:layout_width="@dimen/canvas_width"
+       android:layout_margin="10dp"
+       android:clickable="true"
+       android:background="@drawable/green_button_normal"
+       android:layout_height="@dimen/canvas_ht"
+       shibins:text="Save"
+       shibins:voice= "Cancel"
+       />
+
+</RelativeLayout>
